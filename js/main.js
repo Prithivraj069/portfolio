@@ -5,20 +5,20 @@
 
 	var projectsArray = [
 		{
-			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"id": "plasmaDonorApp",
+			"url": "https://github.com/Prithivraj069/Plasma-app"
 		},
 		{
-			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"id": "businessWeb",
+			"url": "https://github.com/Prithivraj069/industrial_project_1"
 		},
 		{
-			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"id": "rentalApp",
+			"url": "https://github.com/Prithivraj069/responsive-webpage"
 		},
 		{
-			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"id": "e-commerce",
+			"url": "https://github.com/Prithivraj069/react-practical-assessment"
 		}
 	]
 
